@@ -1,7 +1,8 @@
 # MaskDetection
 
 건물 출입 시 사람들의 마스크 착용여부 판단
--Face mask detector video
+-Face mask detector video![Mask Detection 개발 과정](https://user-images.githubusercontent.com/42646583/114132285-07ee9e00-993f-11eb-888e-8c0409718134.JPG)
+
 
 • 실시간 video stream을 활용하여 마스크 착용여부 확인
 
