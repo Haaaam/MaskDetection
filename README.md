@@ -3,6 +3,8 @@
 건물 출입 시 사람들의 마스크 착용여부 판단
 -Face mask detector video
 
+- dataset: https://github.com/imeamin/MaskDetectionDataset
+
 • 실시간 video stream을 활용하여 마스크 착용여부 확인
 
 -	OpenCV 및 딥러닝으로 이미지영상에서 얼굴 감지
