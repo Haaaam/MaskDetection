@@ -3,7 +3,7 @@
 ### 건물 출입 시 사람들의 마스크 착용여부 판단
 -Face mask detector video
 - dataset: https://github.com/imeamin/MaskDetectionDataset
-
+- 개발 기간: 20200525~20200615
 
 ### 개발 목적
 - 최근 중국에서 발생한 COVID-19로 인해 전세계적으로 심각한 상황
@@ -17,7 +17,7 @@
 -	하지만 마스크 착용 여부를 확인하기 위한 장치는 無  
 
 
-• 실시간 video stream을 활용하여 마스크 착용여부 확인
+• 실시간 video stream을 활용하여 마스크 착용여부 확인 시연
 ##### ※실시간 Video는 “detect_mask_video.py”로 파일 첨부하였습니다
 
 -	OpenCV 및 딥러닝으로 이미지영상에서 얼굴 감지
