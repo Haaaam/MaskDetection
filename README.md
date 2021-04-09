@@ -18,7 +18,7 @@
 
 
 • 실시간 video stream을 활용하여 마스크 착용여부 확인
-※실시간 Video는 “detect_mask_video.py”로 파일 첨부하였습니다
+##### ※실시간 Video는 “detect_mask_video.py”로 파일 첨부하였습니다
 
 -	OpenCV 및 딥러닝으로 이미지영상에서 얼굴 감지
 -	얼굴을 감지한 후, 각 얼굴 ROI에 얼굴 마스크 분류기를 적용
